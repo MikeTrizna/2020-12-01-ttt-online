@@ -14,7 +14,7 @@ etherpad: https://pad.carpentries.org/2020-12-01-ttt-online            # optiona
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "https://carpentries.zoom.us/my/carpentriesroom1?pwd=VElzMTlMcXh1bjF6YXl3L1NsTllldz09"
 
 ---
 
